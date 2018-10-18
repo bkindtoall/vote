@@ -1,12 +1,12 @@
-# _Booking_
+# _Vote_
 
-#### _single Webpage for Epicodus, 10.17.2018_
+#### _single Webpage for Epicodus, 10.18.2018_
 
-#### By _**Kenny Wolfenberger and Kaveh Saleminejad**_
+#### By _**Patricia Filipovic and Kaveh Saleminejad**_
 
 ## Description
 
-_A webpage to submit a booking._
+_A webpage to enter voter info with age condition- information if not eligible._
 
 ## Setup/Installation Requirements
 
@@ -17,7 +17,7 @@ _A webpage to submit a booking._
 
 ## Support and contact details
 
-_Contact Kenny Wolfenberger - kennywolfenberger@gmail.com or Kaveh Saleminejad - lcaveh@gmail.com._
+_Contact Patricia Filipovic - ihopeilaughilive@gmail.com or Kaveh Saleminejad - lcaveh@gmail.com._
 
 ## GitHub page's links
 
@@ -32,4 +32,4 @@ _Contact Kenny Wolfenberger - kennywolfenberger@gmail.com or Kaveh Saleminejad -
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2018 **_Kenny Wolfenberger, Kaveh Saleminejad_**
+Copyright (c) 2018 **_Patricia Filipovic, Kaveh Saleminejad_**
